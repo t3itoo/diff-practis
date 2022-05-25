@@ -1,4 +1,4 @@
 # diff-practis
 ワーキング3rd
-<<<<<<< HEAD
-mainbranch
+mergetool conflict(feateure)
+hennkoukoukou
